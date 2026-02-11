@@ -1,0 +1,44 @@
+
+Perhatikan sebelum menginstall Autosub: 
+1.Wajib sudah mempunyai software Subtitle Editor atau Aegisub, klo blom punya, instal aja dulu salah satunya..
+2.terkoneksi dgn internet, agar terhubung dengan Google
+
+Berdoa dulu yee.. semoga sukses
+
+
+
+CARA INSTALL Autosub:
+
+1.Klik setup
+
+2.klik "Run" saat muncul Open file python, lalu "Next", dan "Next"lagi
+
+3.pada saat muncul windows "Customize Phython 2.7.12":
+[Add python.exe to Path] yang disilang, ganti dengan [Will be installed on local hard drive],lalu "Next"
+
+4.Install Python berjalan, pilih "Yes"
+
+5.Finish deh... (pada jendela DOS, ENTER-ENTERin aja, pilih All jika ada opsi: Yes, No, All)
+
+Kelar deh Autosub nya..
+
+~~
+
+
+
+CARA PENGGUNAAN:
+
+pada file movie/film yang mau dibikin subtitle nya:
+
+1.klik kanan, arahkan ke "Send to"
+
+2.pilih Autosub_basahamovieapa 
+tunggu prosesnya (lamanya sama dengan durasi movie)
+
+3.File subtitle (srt) sudah otomatis jadi
+agar sempurna, buka file (srt) tsb dgn program Subtitle Editor atau Aegisub, lalu "Save" ajah
+
+4.File subtitle (srt) sudah siap digunakan
+
+
+
