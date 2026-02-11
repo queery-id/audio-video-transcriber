@@ -1,9 +1,0 @@
-C:\Python27\python.exe C:\Python27\Scripts\autosub_app.py -C 2 -S ko -D ko %1
-C:\Python27\python.exe C:\Python27\Scripts\autosub_app.py -C 2 -S ko -D ko %2
-C:\Python27\python.exe C:\Python27\Scripts\autosub_app.py -C 2 -S ko -D ko %3
-C:\Python27\python.exe C:\Python27\Scripts\autosub_app.py -C 2 -S ko -D ko %4
-C:\Python27\python.exe C:\Python27\Scripts\autosub_app.py -C 2 -S ko -D ko %5
-C:\Python27\python.exe C:\Python27\Scripts\autosub_app.py -C 2 -S ko -D ko %6
-C:\Python27\python.exe C:\Python27\Scripts\autosub_app.py -C 2 -S ko -D ko %7
-C:\Python27\python.exe C:\Python27\Scripts\autosub_app.py -C 2 -S ko -D ko %8
-C:\Python27\python.exe C:\Python27\Scripts\autosub_app.py -C 2 -S ko -D ko %9

@@ -10,3 +10,5 @@ input/
 .DS_Store
 src/config.py
 .env
+Benchmark/
+*.key
